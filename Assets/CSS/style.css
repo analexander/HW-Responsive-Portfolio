@@ -1,0 +1,19 @@
+/* GENERAL STYLES */
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.float-left {
+    float: left;
+    max-width: 100%;
+    height: auto;
+    
+}
+
+.container {
+    border: 2px solid black;
+
+}
