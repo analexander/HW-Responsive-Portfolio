@@ -9,11 +9,27 @@
 .float-left {
     float: left;
     max-width: 100%;
-    height: auto;
+    padding: 5px;
     
 }
 
 .container {
     border: 2px solid black;
+    width: 75%;
+    margin-top: 20px;
+    }
 
+@media (min-width: 576px) {
+    .container {
+        width: 100%;
+        align: center;
+
+
+    }
 }
+
+/* Medium devices (tablets, 768px and up) 
+@media (min-width: 768px) { ... }
+
+/* Large devices (desktops, 992px and up) 
+@media (min-width: 992px) { ... } */
