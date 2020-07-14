@@ -32,8 +32,6 @@
      text-align: center;
  }
 
-
-
  @include media-breakpoint-up(xs) {
     .container {
         max-width: 100%;
