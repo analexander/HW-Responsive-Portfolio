@@ -9,7 +9,7 @@
 .float-left {
     float: left;
     max-width: 100%;
-    padding: 5px;
+    padding: 10px;
     
 }
 
@@ -17,27 +17,14 @@
     border: 2px solid black;
     max-width: 75%;
     margin-top: 20px;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
     }
-
-.fixed-bottom {
-    line-height: 20px;
-    border-top: 2px solid black;
-    text-align: center;
-    position: relative;
-    bottom: 0;
- } 
-
- .d-md-none {
-     text-align: center;
- }
 
  @include media-breakpoint-up(xs) {
     .container {
         max-width: 100%;
         align: center;
-        }
-    }
+     }
 
  /* Medium devices (tablets, 768px and up) 
 @media (min-width: 768px) { ... } 
