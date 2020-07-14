@@ -52,9 +52,3 @@ p {
     color: #cccccc;
     font-weight: medium;
 }
-
- @include media-breakpoint-up(xs) {
-    .container {
-        max-width: 100%;
-        align: center;
-     }
