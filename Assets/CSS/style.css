@@ -8,11 +8,11 @@
 }
 
 body {
-        background-image: url("../Images/abstract-painting.jpg");
-        background-color: #cccccc;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
+    background-image: url("../Images/abstract-painting.jpg");
+    background-color: #cccccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h2 {
