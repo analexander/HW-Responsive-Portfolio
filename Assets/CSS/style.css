@@ -19,6 +19,12 @@
     margin-top: 20px;
     }
 
+.fixed-bottom {
+    border-top: 2px solid black;
+    margin-top: 50px;
+    text-align: center;
+}
+
     @include media-breakpoint-up(xs) {
         .container {
             max-width: 100%;
