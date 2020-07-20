@@ -1,4 +1,4 @@
-# Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
+CSS and Bootstrap: Responsive Portfolio
 
 By Angel Alexander
 
